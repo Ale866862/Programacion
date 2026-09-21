@@ -1,6 +1,6 @@
 # Programacion
 
-[Jeffrey.jfif]
+![Texto alternativo](Jeffrey.jfif)
 
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
