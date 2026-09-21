@@ -1,6 +1,6 @@
 # Programacion
 
-![Texto alternativo](Jeffrey.jfif)
+![Texto alternativo](spiderman.jpg)
 
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
