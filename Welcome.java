@@ -1,6 +1,0 @@
-// Este programa imprime bienvenido a Java!
-public class Welcome {
-	public static void main(String[] args) {
-	System.out.println("Bienvenido a Java!");
-	}
-}
