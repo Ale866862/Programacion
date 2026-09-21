@@ -1,5 +1,7 @@
 # Programacion
 
+[Jeffrey.jfif]
+
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
 | Ejercicios | descripción |
