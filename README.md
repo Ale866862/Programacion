@@ -6,7 +6,7 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| [Welcome java](Welcome.java) | Primer programa de java, muestra un mensaje de bienvenida |
+| [Welcome java](tema1/Welcome.java) | Primer programa de java, muestra un mensaje de bienvenida |
 | [Ejercicio 1](SalidaFormateada02.java) | Aprendemos a usar println y printf |
 | [Ejercicio 2](nombre.java) | Programa de java que imprime nuestro nombre |
 | [Ejercicio 3](datos.java) | Programa de java anterior modificado con dirección y número añadidos en diferentes líneas |
