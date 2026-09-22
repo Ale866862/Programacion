@@ -2,7 +2,7 @@
 public class Datos {
 	public static void main(String[] args) {
 	System.out.println("Alejandro Ojeda Sánchez");
-	System.out.println("C/Antonio Machado 55");
-	System.out.println("+34 675 45 34 04");
+	System.out.println("C/Jeffrey 67");
+	System.out.println("+34 676 67 67 67");
 	}
 }
