@@ -4,7 +4,7 @@
 
 ## Tema 1 - Introducción a las computadoras, a los programas y Java
 
-| Ejercicios | descripción |
+| Ejercicios | Descripción |
 | --- | --- |
 | [Welcome java](tema1/Welcome.java) | Primer programa de java, muestra un mensaje de bienvenida |
 | [Ejercicio 1](tema1/SalidaFormateada02.java) | Aprendemos a usar println y printf |
@@ -15,7 +15,7 @@
 
 ## Tema 2 - Programación Elemental
 
-| Actividad | descripción |
+| Actividad | Descripción |
 | --- | --- |
 | Ejercicio 1 | --- |
 | Ejercicio 2 | --- |
