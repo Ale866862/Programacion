@@ -7,7 +7,7 @@
 | [Ejercicio 2](nombre.java) | Programa de java que imprime nuestro nombre |
 | [Ejercicio 3](datos.java) | Programa de java anterior modificado con dirección y número añadidos en diferentes líneas |
 | [Ejercicio 4](traducciones.java) | Programa de java con palabras y sus traducciones usando \t |
-| [Ejercicio 5] | --- |
+| [Ejercicio 5](horario.java) | Programa de java que imprime mi horario |
 | [Ejercicio 6] | --- |
 | [Ejercicio 7] | --- |
 | [Ejercicio 8] | --- |
