@@ -6,17 +6,12 @@
 
 | Ejercicios | descripción |
 | --- | --- |
-| Ejercicio 1 | --- |
-| Ejercicio 2 | --- |
-| Ejercicio 3 | --- |
-| Ejercicio 4 | --- |
-| Ejercicio 5 | --- |
-| Ejercicio 6 | --- |
-| Ejercicio 7 | --- |
-| Ejercicio 8 | --- |
-| Ejercicio 9 | --- |
-| Ejercicio 10 | --- |
-
+| [Welcome java](Welcome.java) | Primer programa de java, muestra un mensaje de bienvenida |
+| [Ejercicio 1](SalidaFormateada02.java) | Aprendemos a usar println y printf |
+| [Ejercicio 2](nombre.java) | Programa de java que imprime nuestro nombre |
+| [Ejercicio 3](datos.java) | Programa de java anterior modificado con dirección y número añadidos en diferentes líneas |
+| [Ejercicio 4](traducciones.java) | Programa de java con palabras y sus traducciones usando \t |
+| [Ejercicio 5](horario.java) | Programa de java que imprime mi horario |
 
 ## Tema 2 - Programación Elemental
 
