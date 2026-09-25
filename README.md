@@ -17,7 +17,7 @@
 
 | Actividad | Descripción |
 | --- | --- |
-| [Ejercicio 1] | --- |
+| [Ejercicio 1](tema2/SegundosAMinutos.java) | Este programa recibe un número de segundos y devuelve ese número convertido en horas, minutos y segundos | --- |
 | Ejercicio 2 | --- |
 | Ejercicio 3 | --- |
 | Ejercicio 4 | --- |
