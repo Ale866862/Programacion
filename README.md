@@ -19,11 +19,6 @@
 | [Repaso Grados](tema2/FarenheitACelsius.java) | Este programa pasa de grados Fahrenheit a Celsius |
 | [Ejercicio 1](tema2/SalarioSemanal.java) | Este programa calcula el salario semanal de un empleado que cobra 12 euros la hora |
 | [Ejercicio 2](tema2/VolumenCono.java) | Este programa calcula el volumen de un cono a raiz de su radio y altura |
-| Ejercicio 3 | --- |
-| Ejercicio 4 | --- |
-| Ejercicio 5 | --- |
-| Ejercicio 6 | --- |
-| Ejercicio 7 | --- |
-| Ejercicio 8 | --- |
-| Ejercicio 9 | --- |
-| Ejercicio 10 | --- |
+| [Ejercicio 3]() | --- |
+| [Ejercicio 4]() | --- |
+| [Ejercicio 5]() | --- |
