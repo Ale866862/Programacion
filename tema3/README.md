@@ -1,10 +1,8 @@
-## Tema 2 - Selecciones
+## Tema 3 - Selecciones
 
 | Actividad | Descripción |
 | --- | --- |
-| [Conver Minutos](OperacionesRandom.java) | Este programa te pide que calcules la suma de nos numeros aleatorios |
-| [Repaso Grados]() | --- |
-| [Ejercicio 1]() | --- |
+| [Ejercicio 1](OperacionesRandom.java) | Este programa te pide que calcules la suma de nos numeros aleatorios |
 | [Ejercicio 2]() | ---  |
 | [Ejercicio 3]() | --- |
 | [Ejercicio 4]() | --- |
