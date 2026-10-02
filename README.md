@@ -22,3 +22,13 @@
 | [Ejercicio 3](tema2/MbAKb.java) | Este programa transforma un número de Mb dado por el usuario a Kb |
 | [Ejercicio 4](tema2/KbAMb.java) | Este programa transofrma un número de Kb dado por el usuario a Mb |
 | [Ejercicio 5]() | --- |
+
+# Tema 3 - Selecciones
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1](tema3/OperacionesRandom.java) | Este programa te pide que calcules la suma de nos numeros aleatorios |
+| [Ejercicio 2]() | ---  |
+| [Ejercicio 3]() | --- |
+| [Ejercicio 4]() | --- |
+| [Ejercicio 5]() | --- |
