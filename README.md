@@ -23,12 +23,14 @@
 | [Ejercicio 4](tema2/KbAMb.java) | Este programa transofrma un número de Kb dado por el usuario a Mb |
 | [Ejercicio 5]() | --- |
 
-# Tema 3 - Selecciones
+## Tema 3 - Selecciones
 
 | Actividad | Descripción |
 | --- | --- |
-| [Ejercicio 1](tema3/OperaciondesRandom.java) | Este programa te pide que calcules la suma de nos numeros aleatorios |
-| [Ejercicio 2]() | ---  |
-| [Ejercicio 3]() | --- |
-| [Ejercicio 4]() | --- |
-| [Ejercicio 5]() | --- |
+| [Practica](tema3/OperaciondesRandom.java) | Este programa te pide que calcules la suma de nos numeros aleatorios |
+| [Ejercicio 1](tema3/PrimeraHora.java) | Este programa te dice que asignatura tienes a 1ra hora el dia que pongas |
+| [Ejercicio 2](tema3/BuenosDias.java) | Este programa te saluda de diferentes maneras según la hora que sea |
+| [Ejercicio 3](tema3/Horoscopo.java) | Este programa te dice tu horóscopo según tu fecha de nacimiento |
+| [Ejercicio 4](tema3/Capicuo.java) | Este programa te dice si el número introducido es capicúa |
+| [Ejercicio 5](tema3/NotasProgramacion.java) | Este programa te calcula si eres apto o no en la asignatura |
+
