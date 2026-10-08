@@ -35,3 +35,52 @@
 | [Ejercicio 4](tema3/Capicuo.java) | Este programa te dice si el número introducido es capicúa |
 | [Ejercicio 5](tema3/NotasProgramacion.java) | Este programa te calcula si eres apto o no en la asignatura de programación |
 
+## Tema 4 - Métodos matemáticos, caracteres y cadenas
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
+| [Ejercicio 2]() |  |
+| [Ejercicio 3]() |  |
+| [Ejercicio 4]() |  |
+| [Ejercicio 5]() |  |
+
+## Tema 5 - Bucles
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
+| [Ejercicio 2]() |  |
+| [Ejercicio 3]() |  |
+| [Ejercicio 4]() |  |
+| [Ejercicio 5]() |  |
+
+## Tema 6 - Métodos
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
+| [Ejercicio 2]() |  |
+| [Ejercicio 3]() |  |
+| [Ejercicio 4]() |  |
+| [Ejercicio 5]() |  |
+
+## Tema 7 - Matrices unidimensionales
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
+| [Ejercicio 2]() |  |
+| [Ejercicio 3]() |  |
+| [Ejercicio 4]() |  |
+| [Ejercicio 5]() |  |
+
+## Tema 8 - Matrices multidimensionales
+
+| Actividad | Descripción |
+| --- | --- |
+| [Ejercicio 1]() |  |
+| [Ejercicio 2]() |  |
+| [Ejercicio 3]() |  |
+| [Ejercicio 4]() |  |
+| [Ejercicio 5]() |  |
