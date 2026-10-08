@@ -33,5 +33,5 @@
 | [Ejercicio 2](tema3/BuenosDias.java) | Este programa te saluda de diferentes maneras según la hora que sea |
 | [Ejercicio 3](tema3/Horoscopo.java) | Este programa te dice tu horóscopo según tu fecha de nacimiento |
 | [Ejercicio 4](tema3/Capicuo.java) | Este programa te dice si el número introducido es capicúa |
-| [Ejercicio 5](tema3/NotasProgramacion.java) | Este programa te calcula si eres apto o no en la asignatura |
+| [Ejercicio 5](tema3/NotasProgramacion.java) | Este programa te calcula si eres apto o no en la asignatura de programación |
 
