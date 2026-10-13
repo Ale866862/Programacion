@@ -39,7 +39,7 @@
 
 | Actividad | Descripción |
 | --- | --- |
-| [Ejercicio 1]() |  |
+| [Ejercicio 1](tema4/Baraja.java) | Este programa muestra una carta de la baraja francesa al azar |
 | [Ejercicio 2]() |  |
 | [Ejercicio 3]() |  |
 | [Ejercicio 4]() |  |
