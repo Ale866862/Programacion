@@ -1,6 +1,5 @@
 import java.util.Scanner;
 
-
 public class Redondeo {
     //1.       Introduce 5 notas desde teclado y muestra para cada nota, la nota redondeada con un decimal al alza, a la baja,
     //  la nota truncada en las unidades y al final muestra la media e indica el máximo y mínimo.
