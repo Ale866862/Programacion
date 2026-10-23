@@ -49,11 +49,13 @@
 
 | Actividad | Descripción |
 | --- | --- |
-| [Ejercicio 1]() |  |
-| [Ejercicio 2]() |  |
-| [Ejercicio 3]() |  |
-| [Ejercicio 4]() |  |
-| [Ejercicio 5]() |  |
+| [Ejercicio 1](tema5/Cohete.java) | Este programa imprime una cuenta atrás de un despegue |
+| [Ejercicio 2](tema5/TablaDelNueve.java) | Este programa muestra la tabla de multiplicar del nueve |
+| [Ejercicio 3](tema5/NotaTextual.java) | Este programa covierte una nota númerica en textual |
+| [Ejercicio 4](tema5/EscaleraDeNumeros.java) | Este programa escribe una escalera de números usando bucles anidados |
+| [Ejercicio 5](tema5/NumerosPrimos.java) | Este programa imprime todos los numeros primos del 1 al 50 |
+| [Ejercicio 6](tema5/Suma.java) | Este programa suma todos los numeros introducidos por el usuario hasta q este introduzca un 0 |
+
 
 ## Tema 6 - Métodos
 
