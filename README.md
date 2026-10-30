@@ -55,6 +55,12 @@
 | [Ejercicio 4](tema5/EscaleraDeNumeros.java) | Este programa escribe una escalera de números usando bucles anidados |
 | [Ejercicio 5](tema5/NumerosPrimos.java) | Este programa imprime todos los numeros primos del 1 al 50 |
 | [Ejercicio 6](tema5/Suma.java) | Este programa suma todos los numeros introducidos por el usuario hasta q este introduzca un 0 |
+| [Ejercicio 7](tema5/NumerosPares.java) | Este programa muestra los numeros pares comprendidos entre el 1 y el elegido por el usuario |
+| [Ejercicio 8](tema5/ContarCifras.java) | Este programa pide un número entero y calcula cuantas cifras tiene |
+| [Ejercicio 9](tema5/NumerosPrimos.java) | Este programa determina si el numero introducido es primo o no |
+| [Ejercicio 10](tema5/RectanguloAsteriscos.java) | Este programa dibuja un rectangulo de asteriscos con las caracteristicas escritas |
+| [Ejercicio 11](tema5/CuadradoNumerico.java) | Este programa pide un numero y muestra un cuadrado con dicho numero |
+| [Ejercicio 12](tema5/MatrizNumeros.java) | Este programa muestra una matriz en la que multiplica filas y columnas |
 
 
 ## Tema 6 - Métodos
