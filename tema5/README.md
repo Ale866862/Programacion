@@ -14,4 +14,3 @@
 | [Ejercicio 10](RectanguloAsteriscos.java) | Este programa dibuja un rectangulo de asteriscos con las caracteristicas escritas |
 | [Ejercicio 11](CuadradoNumerico.java) | Este programa pide un numero y muestra un cuadrado con dicho numero |
 | [Ejercicio 12](MatrizNumeros.java) | Este programa muestra una matriz en la que multiplica filas y columnas |
-
